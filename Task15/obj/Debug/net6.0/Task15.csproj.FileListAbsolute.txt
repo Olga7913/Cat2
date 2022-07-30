@@ -1,0 +1,15 @@
+D:\Обучение\Git\30.07\DZ\Task15\bin\Debug\net6.0\Task15.exe
+D:\Обучение\Git\30.07\DZ\Task15\bin\Debug\net6.0\Task15.deps.json
+D:\Обучение\Git\30.07\DZ\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+D:\Обучение\Git\30.07\DZ\Task15\bin\Debug\net6.0\Task15.dll
+D:\Обучение\Git\30.07\DZ\Task15\bin\Debug\net6.0\Task15.pdb
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.dll
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\refint\Task15.dll
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.pdb
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+D:\Обучение\Git\30.07\DZ\Task15\obj\Debug\net6.0\ref\Task15.dll
